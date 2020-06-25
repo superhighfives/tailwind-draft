@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40" style="background:#fff">
+  <defs>
+    <polygon id="thumbnail-solid-a" points="9.547 22 9.547 8.023 14.729 8.023 14.729 5.072 .827 5.072 .827 8.023 6.009 8.023 6.009 22"/>
+    <path id="thumbnail-solid-b" d="M7.47217052,22 C12.6299519,22 15.7543772,18.8094493 15.7543772,13.5194171 C15.7543772,8.24591621 12.6299519,5.07189688 7.52176457,5.07189688 L1.47129021,5.07189688 L1.47129021,22 L7.47217052,22 Z M7.32338836,18.9334344 L5.05032764,18.9334344 L5.05032764,8.13846243 L7.33165404,8.13846243 C10.5056734,8.13846243 12.1836055,9.7585348 12.1836055,13.5194171 C12.1836055,17.2968307 10.5056734,18.9334344 7.32338836,18.9334344 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="40" height="40" fill="#FFF"/>
+    <g fill-rule="nonzero" transform="translate(2 6)">
+      <use fill="#1D1F2E" xlink:href="#thumbnail-solid-a"/>
+      <use fill="#FFF" stroke="#4A5568" xlink:href="#thumbnail-solid-a"/>
+      <text fill="#E0CD00" font-family="Inter-Bold, Inter" font-size="23.276" font-weight="bold" letter-spacing="8.952" opacity=".503" style="mix-blend-mode:multiply">
+        <tspan x="2.487" y="24.487">T</tspan>
+      </text>
+    </g>
+    <g fill-rule="nonzero" transform="translate(19 6)">
+      <g stroke-dasharray="5 1">
+        <use fill="#1D1F2E" xlink:href="#thumbnail-solid-b"/>
+        <use fill="#FFF" stroke="#4A5568" xlink:href="#thumbnail-solid-b"/>
+      </g>
+      <text fill="#E0CD00" font-family="Inter-Bold, Inter" font-size="23.276" font-weight="bold" letter-spacing="8.952" opacity=".503" style="mix-blend-mode:multiply">
+        <tspan x="2.487" y="24.487">D</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
